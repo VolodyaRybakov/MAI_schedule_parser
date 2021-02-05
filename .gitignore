@@ -1,0 +1,11 @@
+.venv
+.vscode
+__pycache__
+tmp
+*.aux
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+*.log
+*.fls
+tex/__latexindent_temp.tex
